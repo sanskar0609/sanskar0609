@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanskar0609](https://github.com/sanskar0609)
 
-- 💬 Ask me about **React, DSA, Java, HTML, CSS**
+- 💬 Ask me about **React, DSA, Java, HTML, CSS, PHP, javascript**
 
 - 📫 How to reach me **sanskarsontakke121@gmail.com**
 
