@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya887&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya887" /> </p>
 
-- 🌱 I’m currently learning **react, SQL, PowerBi**
+- 🌱 I’m currently learning **react, SQL, node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanskar0609](https://github.com/sanskar0609)
 
