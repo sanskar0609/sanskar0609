@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskar Sontakke</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya887&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya887" /> </p>
+<p align="left">  </p>
 
 - 🌱 I’m currently learning **react, SQL, node.js**
 
