@@ -7,7 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanskar0609](https://github.com/sanskar0609)
 
-- 💬 Ask me about **React, DSA, Java, HTML, CSS, PHP, javascript, Spring Boot**
+- 🔗 Check out my portfolio: [sanskarsontakkeportfolio.netlify.app](https://sanskarsontakkeportfolio.netlify.app/)
+
+- 💬 Ask me about **React, DSA, Java, HTML, CSS, PHP, javascript, Spring Boot, Selenium, Apache Jmeter**
 
 - 📫 How to reach me **sanskarsontakke121@gmail.com**
 
