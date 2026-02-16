@@ -3,13 +3,13 @@
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning **react, SQL, node.js**
+- 🌱 I’m currently learning **Kubernates, Microservice**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanskar0609](https://github.com/sanskar0609)
 
 - 🔗 Check out my portfolio: [sanskarsontakkeportfolio.netlify.app](https://sanskarsontakkeportfolio.netlify.app/)
 
-- 💬 Ask me about **React, DSA, Java, HTML, CSS, PHP, javascript, Spring Boot, Selenium, Apache Jmeter**
+- 💬 Ask me about **React, DSA, Java, HTML, CSS, PHP, javascript, Spring Boot, Selenium, Apache Jmeter, React, SQL,Node.js **
 
 - 📫 How to reach me **sanskarsontakke121@gmail.com**
 
