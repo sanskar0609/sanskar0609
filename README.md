@@ -45,10 +45,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar0609&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar0609&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanskar0609&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanskar0609&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
 ---
 
 ### 🤝 Connect
